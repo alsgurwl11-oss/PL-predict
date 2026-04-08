@@ -7,7 +7,7 @@
 ![Season](https://img.shields.io/badge/시즌-2025--26-orange)
 ![Backtest](https://img.shields.io/badge/백테스트-52%25-brightgreen)
 
-**[🚀 라이브 데모 →](https://[내아이디].github.io/pl-predict)**
+**[🚀 라이브 데모 →](https://alsgurwl11-oss.github.io/PL-predict)/**
 
 ---
 
